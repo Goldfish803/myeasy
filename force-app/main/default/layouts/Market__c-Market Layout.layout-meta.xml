@@ -20,7 +20,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>PredictedBookingRate__c</field>
+                <field>Predicted_Booking_Rate__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -28,7 +28,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>TotalDailyBookingRate__c</field>
+                <field>Total_Daily_Booking_Rate__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

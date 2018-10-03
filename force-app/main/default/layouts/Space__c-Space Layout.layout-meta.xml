@@ -16,7 +16,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>BaseDailyBookingRate__c</field>
+                <field>Daily_Booking_Rate__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -24,23 +24,23 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>MaximumCapacity__c</field>
+                <field>Maximum_Capacity__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>MinimumCapacity__c</field>
+                <field>Minimum_Capacity__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>PictureURL__c</field>
+                <field>Picture_URL__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>PredictedBookingRate__c</field>
+                <field>Predicted_Booking_Rate__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>PredictedDemand__c</field>
+                <field>Predicted_Demand__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
