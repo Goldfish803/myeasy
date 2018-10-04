@@ -45,15 +45,14 @@
     [
         "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 736,
+            "modifiedTime": 1538624873721,
+            "changeTime": 1538624873721,
+            "contentHash": "6803dd85725aa0166fc24864e0faf38d397bd725",
             "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1538617509621,
-            "changeTime": 1538617509621,
-            "isWorkspace": false,
-            "contentHash": "089a0742a9d8a277f309837a4529c8f6b6310ef4"
+            "state": "u"
         }
     ],
     [
@@ -447,10 +446,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10696,
-            "modifiedTime": 1538558238343,
-            "changeTime": 1538558238343,
-            "contentHash": "8d634885230b3cd7f7872b9a4e1b73c9fb0d00e0",
+            "size": 10692,
+            "modifiedTime": 1538622148102,
+            "changeTime": 1538622148102,
+            "contentHash": "bf69a00b105ed1f974abf4c1ef59f487d3a87336",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -460,10 +459,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 25225,
-            "modifiedTime": 1538558238376,
-            "changeTime": 1538558238376,
-            "contentHash": "7553342db43d6493f4fb4181844f72b27c9f1205",
+            "size": 25221,
+            "modifiedTime": 1538622148142,
+            "changeTime": 1538622148142,
+            "contentHash": "96bd4758f901a6b66390ab63934ea50a83571cd6",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -473,10 +472,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10696,
-            "modifiedTime": 1538558238383,
-            "changeTime": 1538558238383,
-            "contentHash": "8d634885230b3cd7f7872b9a4e1b73c9fb0d00e0",
+            "size": 10692,
+            "modifiedTime": 1538622148150,
+            "changeTime": 1538622148150,
+            "contentHash": "bf69a00b105ed1f974abf4c1ef59f487d3a87336",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -486,10 +485,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 11034,
-            "modifiedTime": 1538558238395,
-            "changeTime": 1538558238395,
-            "contentHash": "5dcec9359dc57f71b6b922078820441fcda2fc55",
+            "size": 11030,
+            "modifiedTime": 1538622148158,
+            "changeTime": 1538622148158,
+            "contentHash": "51685fe7e50c95db0083e908e129e1aa302c4c22",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -664,10 +663,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1538558238322,
-            "changeTime": 1538558238322,
-            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931",
+            "size": 224,
+            "modifiedTime": 1538622148085,
+            "changeTime": 1538622148085,
+            "contentHash": "219b56b2d2cb9da1ef11c7b970f80f5d65c05bb9",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1004,10 +1003,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1538558238318,
-            "changeTime": 1538558238318,
-            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957",
+            "size": 160,
+            "modifiedTime": 1538622148084,
+            "changeTime": 1538622148084,
+            "contentHash": "f3d9119ea48e225db2ca7fa829a77897123dd2c1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1537,14 +1536,14 @@
     [
         "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1590,
             "modifiedTime": 1538617564965,
             "changeTime": 1538617564965,
-            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354"
+            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1563,14 +1562,14 @@
     [
         "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
         {
-            "state": "u",
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 38,
             "modifiedTime": 1538617607555,
             "changeTime": 1538617607555,
-            "contentHash": "b038d93fe32ad76275e12681b9d5acdf83572918"
+            "contentHash": "b038d93fe32ad76275e12681b9d5acdf83572918",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1606,14 +1605,14 @@
     [
         "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1311,
             "modifiedTime": 1538617591595,
             "changeTime": 1538617591595,
-            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2219,10 +2218,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
             "isDirectory": false,
-            "size": 1498,
-            "modifiedTime": 1538558238324,
-            "changeTime": 1538558238324,
-            "contentHash": "4a9c53df9184b73e4475c30b83bb7f9dff407ffd",
+            "size": 1609,
+            "modifiedTime": 1538622148088,
+            "changeTime": 1538622148088,
+            "contentHash": "127525ed554af734daba0e10131d77e33c44edc0",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -2297,10 +2296,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flows",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1538558238326,
-            "changeTime": 1538558238326,
-            "contentHash": "03597716608acc3fe4370c78615c0b51502dc08b",
+            "size": 128,
+            "modifiedTime": 1538626739224,
+            "changeTime": 1538626739224,
+            "contentHash": "8d8267b8dfb418d53ead3459f8b8c240fbd17900",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2310,10 +2309,10 @@
         {
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flowDefinitions",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1538558238327,
-            "changeTime": 1538558238327,
-            "contentHash": "660d93f5f527458cf9c9c83794efbc5a7169e5e4",
+            "size": 128,
+            "modifiedTime": 1538626739226,
+            "changeTime": 1538626739226,
+            "contentHash": "2ea527981a4e62a0deebbf874c2d553983df7da5",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2464,40 +2463,1197 @@
     [
         "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/muteTiles",
         {
-            "state": "u",
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/muteTiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538617509621,
             "changeTime": 1538617509621,
-            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e"
+            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
         {
-            "state": "u",
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 182,
             "modifiedTime": 1538617519231,
             "changeTime": 1538617519231,
-            "contentHash": "b0b4b7e5f8d3e4a071245bd9385617e8d498f60d"
+            "contentHash": "b0b4b7e5f8d3e4a071245bd9385617e8d498f60d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 237,
             "modifiedTime": 1538617509622,
             "changeTime": 1538617509622,
-            "contentHash": "451f275940d1fc7920e40d7dda9bbe550130cc2b"
+            "contentHash": "451f275940d1fc7920e40d7dda9bbe550130cc2b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538620688421,
+            "changeTime": 1538620688421,
+            "contentHash": "9718c6f41c0d1daebcb0a6ca756034bc6d613a02",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538620616106,
+            "changeTime": 1538620616106,
+            "contentHash": "5d6e605f6224961e1dc658493c3ae76a9021582b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538620788393,
+            "changeTime": 1538620788393,
+            "contentHash": "be6afa35aeb227d4c9c91409c005c35280b063b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.auradoc",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538620688421,
+            "changeTime": 1538620688421,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp",
+            "isDirectory": false,
+            "size": 742,
+            "modifiedTime": 1538620698595,
+            "changeTime": 1538620698595,
+            "contentHash": "056b9c438638009fca0bc5fd7a41c2d486986545",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1538620688418,
+            "changeTime": 1538620688418,
+            "contentHash": "1d9688e032e0c72447da1ee3a048225923d4c549",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.css",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1538620688420,
+            "changeTime": 1538620688420,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.design",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538620688421,
+            "changeTime": 1538620688421,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.svg",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationList.svg",
+            "isDirectory": false,
+            "size": 1486,
+            "modifiedTime": 1538620726007,
+            "changeTime": 1538620726007,
+            "contentHash": "4ee5118801b95a8612541f5e2b3fa52138d5a9e8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationListController.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationListController.js",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1538620710509,
+            "changeTime": 1538620710509,
+            "contentHash": "db1c4cd88c26c368ed040c8c4d496f6ccf77dfbb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationListHelper.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1538620688419,
+            "changeTime": 1538620688419,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationListRenderer.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationList/reservationListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1538620688420,
+            "changeTime": 1538620688420,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.auradoc",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538620616106,
+            "changeTime": 1538620616106,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp",
+            "isDirectory": false,
+            "size": 3738,
+            "modifiedTime": 1538621358658,
+            "changeTime": 1538621358658,
+            "contentHash": "ffe3d09137bda8d34cd9e668829586c967a1c8d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1538620616103,
+            "changeTime": 1538620616103,
+            "contentHash": "3c82eea185f80fe64029be83cd00070e9cb42a44",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.css",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.css",
+            "isDirectory": false,
+            "size": 38,
+            "modifiedTime": 1538620670201,
+            "changeTime": 1538620670201,
+            "contentHash": "b038d93fe32ad76275e12681b9d5acdf83572918",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.design",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538620616106,
+            "changeTime": 1538620616106,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.svg",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1538620616105,
+            "changeTime": 1538620616105,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTileController.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTileController.js",
+            "isDirectory": false,
+            "size": 939,
+            "modifiedTime": 1538620649441,
+            "changeTime": 1538620649441,
+            "contentHash": "f1e0dc6bd798cfdf196fd1277dcc0c8d062c6b4c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTileHelper.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTileHelper.js",
+            "isDirectory": false,
+            "size": 861,
+            "modifiedTime": 1538620660923,
+            "changeTime": 1538620660923,
+            "contentHash": "c75cebc5a49fb99d445b77dff34407644cf00247",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTileRenderer.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/reservationTile/reservationTileRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1538620616105,
+            "changeTime": 1538620616105,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.auradoc",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538620788393,
+            "changeTime": 1538620788393,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp",
+            "isDirectory": false,
+            "size": 967,
+            "modifiedTime": 1538621444717,
+            "changeTime": 1538621444717,
+            "contentHash": "d70bc0f3851d329f1d047f59cca80db2ed813bde",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1538620788391,
+            "changeTime": 1538620788391,
+            "contentHash": "bf294556da30621be1769f6f06a2c8b990895cba",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.css",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1538620788392,
+            "changeTime": 1538620788392,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.design",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538620788393,
+            "changeTime": 1538620788393,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.svg",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.svg",
+            "isDirectory": false,
+            "size": 1308,
+            "modifiedTime": 1538620856620,
+            "changeTime": 1538620856620,
+            "contentHash": "c91d7624ddb5713345555971996e9e22655bda1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerController.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerController.js",
+            "isDirectory": false,
+            "size": 1191,
+            "modifiedTime": 1538620828163,
+            "changeTime": 1538620828163,
+            "contentHash": "48f1b796a6ea7fd7efc288bf0180ded6eeff5033",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerHelper.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerHelper.js",
+            "isDirectory": false,
+            "size": 805,
+            "modifiedTime": 1538620841742,
+            "changeTime": 1538620841742,
+            "contentHash": "099874537abb25596c3869a366f1368545da00c7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerRenderer.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1538620788392,
+            "changeTime": 1538620788392,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectObject",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectObject",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538621273341,
+            "changeTime": 1538621273341,
+            "contentHash": "c136c4d4c9606b1ec48ec2ad46c6a209d5981528",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1538621280192,
+            "changeTime": 1538621280192,
+            "contentHash": "cba214ded18d0f5ffd1e0e5f2945640372a0c724",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1538621273341,
+            "changeTime": 1538621273341,
+            "contentHash": "7145a7f3762d08602fece2cfc31adb7ac108c588",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 714,
+            "modifiedTime": 1538622148084,
+            "changeTime": 1538622148084,
+            "contentHash": "35b32814a0311592e5e07b4576415a3622d8efff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1538622148085,
+            "changeTime": 1538622148085,
+            "contentHash": "a10d34358fc29b2edf58ce48de7be5117a49ab14",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538622395098,
+            "changeTime": 1538622395098,
+            "contentHash": "83cec6daff5c5b1dd5e180a4e57fa28c013d3a98",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillDeselect",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillDeselect",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538622296489,
+            "changeTime": 1538622296489,
+            "contentHash": "0910499d77556b086510e7cfa8f0530e033a51a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillSelect",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillSelect",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538622269406,
+            "changeTime": 1538622269406,
+            "contentHash": "dcce781f0f987ab0b34d48118c37fb9c242164a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.auradoc",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538622395098,
+            "changeTime": 1538622395098,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.cmp",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.cmp",
+            "isDirectory": false,
+            "size": 561,
+            "modifiedTime": 1538622401080,
+            "changeTime": 1538622401080,
+            "contentHash": "476fea95466cb2e4a54dbb6dc3f69cb98733d530",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1538622395096,
+            "changeTime": 1538622395096,
+            "contentHash": "53ff9a826266210347885a3b875d6e8b4981c392",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.css",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.css",
+            "isDirectory": false,
+            "size": 114,
+            "modifiedTime": 1538624450014,
+            "changeTime": 1538624450014,
+            "contentHash": "8e4829e9161d744a8eb07b5e57d48c27d31c5e83",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.design",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538622395098,
+            "changeTime": 1538622395098,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.svg",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pill.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1538622395098,
+            "changeTime": 1538622395098,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pillController.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pillController.js",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1538622416695,
+            "changeTime": 1538622416695,
+            "contentHash": "7f9642b40ee7fcdc3eacfb844b3b41768869e656",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pillHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pillHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 776,
+            "modifiedTime": 1538628332262,
+            "changeTime": 1538628332262,
+            "contentHash": "7d05f23b10e6dbcd17ac2be25a59e93b05bf734d"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pillRenderer.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pill/pillRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1538622395097,
+            "changeTime": 1538622395097,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt",
+            "isDirectory": false,
+            "size": 122,
+            "modifiedTime": 1538622304546,
+            "changeTime": 1538622304546,
+            "contentHash": "e8dddc4fa3574cf1266baa551cdf02e66f420901",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1538622296489,
+            "changeTime": 1538622296489,
+            "contentHash": "faccb21dcae4292e6a5c95b38fade587157d35de",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt",
+            "isDirectory": false,
+            "size": 122,
+            "modifiedTime": 1538622278929,
+            "changeTime": 1538622278929,
+            "contentHash": "e8dddc4fa3574cf1266baa551cdf02e66f420901",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1538622269406,
+            "changeTime": 1538622269406,
+            "contentHash": "c1be3368e3b9359c8a3d2a5847f7ef1d93f3e550",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538622888077,
+            "changeTime": 1538622888077,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 160,
+            "modifiedTime": 1538622888078,
+            "changeTime": 1538622888078,
+            "contentHash": "530fc21a2bf34902943101f610777e13c9368c3c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/defaultTokens",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538622888078,
+            "changeTime": 1538622888078,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538624799428,
+            "changeTime": 1538624799428,
+            "contentHash": "95004ab388b3765f0e019949fe22b3932c3aab16",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538624567554,
+            "changeTime": 1538624567554,
+            "contentHash": "4c609cd99e9eecd8ae19568745ef2e4f8a5277ff",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectChange",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectChange",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538624528263,
+            "changeTime": 1538624528263,
+            "contentHash": "b64649d5e6e5b7a7ff913e52f657425fe1a2677c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538624873725,
+            "changeTime": 1538624873725,
+            "contentHash": "f3764c6ac81914b79b9278b1e2f44afa79b88382",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.auradoc",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538624799428,
+            "changeTime": 1538624799428,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp",
+            "isDirectory": false,
+            "size": 1582,
+            "modifiedTime": 1538624813079,
+            "changeTime": 1538624813079,
+            "contentHash": "06b75d59c96d78742e4759e6a673eeb63f82186b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1538624799425,
+            "changeTime": 1538624799425,
+            "contentHash": "72931d4d12ccb748368beb73ab923814f0a9678b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.css",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.css",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1538624856254,
+            "changeTime": 1538624856254,
+            "contentHash": "60fa20d78f477f11d2fa13429e2e2ed96d5e6cdf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.design",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538624799428,
+            "changeTime": 1538624799428,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.svg",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1538624799427,
+            "changeTime": 1538624799427,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTileController.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTileController.js",
+            "isDirectory": false,
+            "size": 1264,
+            "modifiedTime": 1538624830686,
+            "changeTime": 1538624830686,
+            "contentHash": "b075a022f1f6494ff96f2ec3333fa201588bbebd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTileHelper.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTileHelper.js",
+            "isDirectory": false,
+            "size": 635,
+            "modifiedTime": 1538624841534,
+            "changeTime": 1538624841534,
+            "contentHash": "5f3ce16f7aeb129aa3081ab755abc12ede77d717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTileRenderer.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/galleryTile/galleryTileRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1538624799427,
+            "changeTime": 1538624799427,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.auradoc",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538624567553,
+            "changeTime": 1538624567553,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp",
+            "isDirectory": false,
+            "size": 710,
+            "modifiedTime": 1538624579977,
+            "changeTime": 1538624579977,
+            "contentHash": "57ef955b5d6a90f7e92a19425ec104df6bbb0975",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1538624567551,
+            "changeTime": 1538624567551,
+            "contentHash": "ebd4bc86fe18a8f6cd9d2af2df085087213b7908",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.css",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1538624567552,
+            "changeTime": 1538624567552,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.design",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538624567554,
+            "changeTime": 1538624567554,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.svg",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTile.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1538624567553,
+            "changeTime": 1538624567553,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTileController.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTileController.js",
+            "isDirectory": false,
+            "size": 648,
+            "modifiedTime": 1538624768442,
+            "changeTime": 1538624768442,
+            "contentHash": "c866fa69c2e92d410aef8ec1d41e8b06539ca262",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTileHelper.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTileHelper.js",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1538624774283,
+            "changeTime": 1538624774283,
+            "contentHash": "1bb81be397359f0bd49877bd907488872cfc4c4a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTileRenderer.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/pillTile/pillTileRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1538624567553,
+            "changeTime": 1538624567553,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1538624538153,
+            "changeTime": 1538624538153,
+            "contentHash": "38487f99e013263de6861fbac49cdb446c35c6ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1538624528263,
+            "changeTime": 1538624528263,
+            "contentHash": "10bef2ba1c09eb4d8ade243a70749735b493cceb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.auradoc",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1538624873724,
+            "changeTime": 1538624873724,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp",
+            "isDirectory": false,
+            "size": 3602,
+            "modifiedTime": 1538624885547,
+            "changeTime": 1538624885547,
+            "contentHash": "2a2340f4c3c512c58de820b818de6b8476dae125",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1538624873722,
+            "changeTime": 1538624873722,
+            "contentHash": "8773ed9eee34eb9aef6fef8039bff9efb5fe1199",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.css",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1538624873723,
+            "changeTime": 1538624873723,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.design",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.design",
+            "isDirectory": false,
+            "size": 297,
+            "modifiedTime": 1538624930786,
+            "changeTime": 1538624930786,
+            "contentHash": "76ae1c7da0ae043a3b76b205f9a60f83d7636e53",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.svg",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1538624873724,
+            "changeTime": 1538624873724,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryController.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryController.js",
+            "isDirectory": false,
+            "size": 1363,
+            "modifiedTime": 1538624907415,
+            "changeTime": 1538624907415,
+            "contentHash": "445078269bb74571800cfe6ce54133e2729caa72",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryHelper.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryHelper.js",
+            "isDirectory": false,
+            "size": 1168,
+            "modifiedTime": 1538624918138,
+            "changeTime": 1538624918138,
+            "contentHash": "69828036c8e7d12aa57d976b463ff19bebb4d37f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryRenderer.js",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1538624873724,
+            "changeTime": 1538624873724,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flows/spaceDesigner-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flows/spaceDesigner-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 5070,
+            "modifiedTime": 1538626739225,
+            "changeTime": 1538626739225,
+            "contentHash": "bdba939e9ceef4c82ffd47cb0aa2339298aa6b11",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flowDefinitions/spaceDesigner.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/sunshy/Work/Salesforce/sfdxDev/myeasy/force-app/main/default/flowDefinitions/spaceDesigner.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 105,
+            "modifiedTime": 1538626739226,
+            "changeTime": 1538626739226,
+            "contentHash": "4102f1024b304c644055ba24c336b5b198707318",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
